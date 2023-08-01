@@ -1,6 +1,6 @@
 import UserProfile from './components/UserProfile/index'
 import './App.css'
-
+// code 
 const userdetailsList = [
   {
     uniqueNo: 1,
